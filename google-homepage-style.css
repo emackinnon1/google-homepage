@@ -86,3 +86,30 @@ a {
     width: 1345px;
     text-align: center;
 }
+
+.search-div {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.search {
+    height: 44px;
+    width: 582px;
+    align-content: center;
+    text-align: center;
+    display: inline-block;
+    border-radius: 24px;
+    border-color: rgb(223, 225, 229);
+
+}
+
+.upper-bottom {
+    color: rgba(0, 0, 0, 0.54);
+    display: block;
+    line-height: 40px;
+    margin-left: 30px;
+    padding-left: 27px;
+    text-align: left;
+    
+}
