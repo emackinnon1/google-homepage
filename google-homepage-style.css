@@ -345,3 +345,65 @@ a {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.search-input {
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://joegelay.github.io/google-homepage/media/voice-logo.png);
+    background-position-x: 465px;
+    background-position-y: 5px;
+    background-repeat: no-repeat;
+    border-bottom-color: rgb(223, 225, 229);
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(223, 225, 229);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(223, 225, 229);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(223, 225, 229);
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-shadow: none;
+    color: rgb(0, 0, 0);
+    cursor: text;
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    font-stretch: 100%;
+    font-style: normal;
+    font-variant-caps: normal;
+    font-variant-east-asian: normal;
+    font-variant-ligatures: normal;
+    font-variant-numeric: normal;
+    font-weight: 400;
+    height: 35px;
+    letter-spacing: normal;
+    line-height: normal;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 1px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 1px;
+    text-align: left;
+    text-indent: 15px;
+    text-rendering: auto;
+    width: 500px;
+}
+
+.search-input:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
